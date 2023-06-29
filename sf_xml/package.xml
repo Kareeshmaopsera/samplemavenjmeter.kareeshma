@@ -46,5 +46,14 @@
     <name>ApexClass</name>
     <members>OPSERA_SF1</members>
   </types>
+  <types>
+    <name>AppMenu</name>
+    <members>AppSwitcher</members>
+    <members>Salesforce1</members>
+  </types>
+  <types>
+    <name>FlexiPage</name>
+    <members>samplewebapp</members>
+  </types>
   <version>58.0</version>
 </Package>
