@@ -42,5 +42,9 @@
     <members>Admin</members>
     <members>Chatter Free User</members>
   </types>
+  <types>
+    <name>ApexClass</name>
+    <members>OPSERA_SF1</members>
+  </types>
   <version>58.0</version>
 </Package>
