@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+  <types>
+    <name>ApexClass</name>
+    <members>OPSERA_SF1</members>
+  </types>
+  <types>
+    <name>AuraDefinitionBundle</name>
+    <members>karishma_sf_lighteningcom</members>
+    <members>kareeshma_lighetning_bundlee</members>
+    <members>kareeshma_lighetning_component1</members>
+    <members>kareeshma_lighetning_component</members>
+    <members>sf_kareeshma</members>
+    <members>karishma_sf_lightening</members>
+    <members>kareeshma_lighetning_bundle</members>
+  </types>
+  <types>
+    <name>ConnectedApp</name>
+    <members>Karishma_salesforce01</members>
+    <members>sf_pipeline1</members>
+  </types>
+  <types>
+    <name>FlexiPage</name>
+    <members>samplewebapp</members>
+  </types>
+<version>58.0</version></Package>
