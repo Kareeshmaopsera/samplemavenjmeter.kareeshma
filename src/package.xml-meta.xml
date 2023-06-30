@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+  <types>
+    <name>ApexClass</name>
+    <members>OPSERA_SF1</members>
+  </types>
+  <types>
+    <name>ApexEmailNotifications</name>
+    <members>apexEmailNotifications</members>
+  </types>
+  <types>
+    <name>AuraDefinitionBundle</name>
+    <members>kareeshma_lighetning_bundlee</members>
+    <members>karishma_sf_lightening</members>
+    <members>kareeshma_lighetning_component1</members>
+    <members>sf_kareeshma</members>
+    <members>kareeshma_lighetning_component</members>
+    <members>karishma_sf_lighteningcom</members>
+    <members>kareeshma_lighetning_bundle</members>
+  </types>
+  <types>
+    <name>FlexiPage</name>
+    <members>samplewebapp</members>
+    <members>RevenueCloudConsole_UtilityBar</members>
+    <members>LightningService_UtilityBar</members>
+    <members>CrisisCenter_UtilityBar</members>
+    <members>LightningSalesConsole_UtilityBar</members>
+    <members>LightningSales_UtilityBar</members>
+    <members>karishma_salesforce_opsera_app_UtilityBar</members>
+    <members>ContactCenter_UtilityBar</members>
+  </types>
+<version>58.0</version></Package>
